@@ -163,11 +163,6 @@ Bridging **Research depth** × **Engineering precision** × **Product impact**.
 
 <div align="center">
 
-### Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-ventura/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaventura)
-
 *Structured · Explicit · Intentional · Sustainable*
 
 </div>
